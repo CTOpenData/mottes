@@ -15,9 +15,9 @@ attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreet
 }).addTo(map);
 
 // Get your own free Mapzen search API key and see geocoder options at https://github.com/mapzen/leaflet-geocoder
-L.control.geocoder('mapzen-r6S4yi3').addTo(map);
+//L.control.geocoder('mapzen-r6S4yi3').addTo(map);
 
-L.control.scale().addTo(map);
+//L.control.scale().addTo(map);
 
 // place a default blue marker on map
 // L.marker([41.767068, -72.716280]).addTo(map);
