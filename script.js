@@ -2,7 +2,7 @@
 var map = L.map('map', {
   center: [41.941, -72.305],
   zoom: 10,
-  scrollWheelZoom: false
+  scrollWheelZoom: true
 });
 
 // Edit links to your GitHub repo and data source credit
